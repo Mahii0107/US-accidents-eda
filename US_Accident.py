@@ -10,7 +10,7 @@ st.write("Interactive Exploratory Data Analysis of US Traffic Accidents")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/US_accidents_cleaned.csv")
+    return pd.read_csv("data/US_accidents_sample.csv")
 
 df = load_data()
 
