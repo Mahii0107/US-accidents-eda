@@ -25,7 +25,7 @@ US-accidents-eda/
 ├── requirements.txt                # Required libraries
 ├── README.md                       # Project documentation
 └── data/
-    └── us_accidents_cleaned.csv   # Cleaned dataset
+    └── us_accidents_sample.csv   # Cleaned dataset
 
 ## 🧹 Data Cleaning & Preprocessing
 Performed in `US_eda.ipynb`:
@@ -95,7 +95,7 @@ Open `US_eda.ipynb` in Jupyter Notebook or JupyterLab to explore the analysis.
 - Low visibility is often associated with longer accident impact distances
 
 ## 🌐 Live Demo
-[View Live Dashboard]
+(https://us-accidents-eda-nnak9scyqfgew3oaibadgp.streamlit.app/)
 
 
 ## 👩‍💻 Author
