@@ -17,15 +17,16 @@ https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 - Demonstrate data cleaning, analysis, and visualization skills
 
 ## 📂 Project Structure
-
+```
 US-accidents-eda/
 │
-├── US_Accident.py                  # Streamlit dashboard
-├── US_eda.ipynb                    # Data cleaning & EDA notebook
-├── requirements.txt                # Required libraries
-├── README.md                       # Project documentation
+├── US_Accident.py              # Streamlit dashboard
+├── US_eda.ipynb                # Data cleaning & EDA notebook
+├── requirements.txt            # Required libraries
+├── README.md                   # Project documentation
 └── data/
-    └── us_accidents_sample.csv   # Cleaned dataset
+    └── us_accidents_sample.csv # Cleaned dataset
+```
 
 ## 🧹 Data Cleaning & Preprocessing
 Performed in `US_eda.ipynb`:
